@@ -1,0 +1,12 @@
+E:\project c#\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+E:\project c#\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+E:\project c#\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+E:\project c#\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+E:\project c#\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+E:\project c#\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\project c#\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+E:\project c#\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+E:\project c#\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\project c#\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojResolveAssemblyReference.cache
+E:\project c#\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+E:\project c#\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb

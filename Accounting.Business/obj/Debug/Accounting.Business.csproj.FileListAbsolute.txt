@@ -1,0 +1,11 @@
+E:\project c#\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+E:\project c#\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+E:\project c#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+E:\project c#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+E:\project c#\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+E:\project c#\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+E:\project c#\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+E:\project c#\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+E:\project c#\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+E:\project c#\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+E:\project c#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojResolveAssemblyReference.cache

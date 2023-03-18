@@ -1,0 +1,5 @@
+E:\project c#\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+E:\project c#\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+E:\project c#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csprojResolveAssemblyReference.cache
+E:\project c#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+E:\project c#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb

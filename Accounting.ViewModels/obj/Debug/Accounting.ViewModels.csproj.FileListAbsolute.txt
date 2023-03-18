@@ -1,0 +1,5 @@
+E:\project c#\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+E:\project c#\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+E:\project c#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+E:\project c#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+E:\project c#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojResolveAssemblyReference.cache
